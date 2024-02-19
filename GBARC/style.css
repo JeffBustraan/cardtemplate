@@ -89,6 +89,10 @@ nav ul li:hover {
   font-size: 24px;
 }
 
+main {
+  min-height: 600px;
+}
+
 .content-container {
   width: 95%;
   margin: 10px auto;
